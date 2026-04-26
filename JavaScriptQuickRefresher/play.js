@@ -5,4 +5,24 @@ const person = {
         console.log('Hey, I am ' + this.name);
     },
 };
-person.greet()
+
+const printName = (person) => {}
+// person.greet()
+// const coppiedPerson = {...person};
+// console.log(coppiedPerson);
+//
+// const hobbies = ['Sports', 'Cooking'];
+// // for(let hobby of hobbies){
+// //     console.log(hobby);
+// // }
+// // console.log(hobbies.map(hobby => {
+// //     return 'Hobby: ' + hobby;
+// // }));
+// // console.log(hobbies);
+// const coppiedArray = [...hobbies];
+// console.log(coppiedArray);
+//
+// const toArray = (...args) => {
+//     return args;
+// }
+// console.log(toArray(1, 2, 3, 4, 5));
