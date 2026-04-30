@@ -1,0 +1,13 @@
+{
+  "name": "first-node-project",
+  "version": "1.0.0",
+  "description": "complete node.js guide",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  }
+}
