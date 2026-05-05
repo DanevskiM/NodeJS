@@ -11,4 +11,4 @@ router.post('/product', (req, res, next) => {
     res.redirect('/');
 });
 
-moudle.exports = router;
+module.exports = router;
